@@ -1,0 +1,3 @@
+"Esta é a primeira sentença."
+
+"Outra frase para análise."
