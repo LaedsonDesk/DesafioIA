@@ -15,8 +15,6 @@ Este projeto contém um conjunto de sentenças armazenadas no arquivo `sentences
 - Pode sugerir melhorias no estilo do texto.
 - Permite extrair sentimentos e temas recorrentes.
 
-## 🖼️ Prints do Processo
-![print](link_da_imagem)
 
 ## 🚀 Possibilidades Futuras
 - Expandir para análise semântica avançada.
